@@ -1,0 +1,10 @@
+.formula {
+	width: 320px;
+	min-height: 20px;
+	text-align: right;
+	color: orange;
+	font-family: monospace;
+	font-size: 20px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}

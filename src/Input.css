@@ -1,0 +1,10 @@
+.input {
+	width: 320px;
+	height: 35px;
+	color: white;
+	text-align: right;
+	font-family: monospace;
+	font-size: 20px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
